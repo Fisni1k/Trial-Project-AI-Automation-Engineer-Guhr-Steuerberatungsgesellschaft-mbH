@@ -99,3 +99,7 @@ The phases map to how a German Steuerberatung actually onboards clients:
 - Pure CSS approach for full brand control
 - HTML5 Drag and Drop for zero-dependency interactions
 - German UI labels to match the actual use case and target audience
+
+## Time Spent
+
+The project took around 4–5 hours in total, including planning the onboarding workflow, building the React components, styling the board, implementing drag-and-drop, testing the interactions, and preparing the README.
